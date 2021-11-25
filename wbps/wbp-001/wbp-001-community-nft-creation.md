@@ -22,15 +22,15 @@ Specification
 =============
 NFT Artist
 ----------
-- [x] Coolestwelsh
+* Coolestwelsh: 
 
 NFT Release Platform
 --------------------
-- [ ] https://www.stacksart.com
+- [ ] [StacksArt](https://www.stacksart.com)
 
-- [ ] https://stxnft.com
+- [ ] [STXNFT](https://stxnft.com)
 
-- [ ] https://byzantion.xyz
+- [ ] [BYZANTION](https://byzantion.xyz)
 
 $WELSH Bounty
 -------------
