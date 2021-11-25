@@ -34,7 +34,7 @@ NFT Release Platform
 
 - [ ] [BYZANTION](https://byzantion.xyz)
 
-Sales Proceeds
+How to Use Sales Revenue
 
 - [ ] To be used at Token Launch
 
