@@ -34,6 +34,12 @@ NFT Release Platform
 
 - [ ] [BYZANTION](https://byzantion.xyz)
 
+Sales Proceeds
+
+- [ ] To be used at Token Launch
+
+- [ ] Stacking for Community Rewards
+
 $WELSH Bounty
 -------------
 * 10,000,000 $WELSH (Not confirmed yet)
