@@ -22,10 +22,12 @@ Specification
 =============
 NFT Artist
 ----------
-* Coolestwelsh: 
+* Coolestwelsh: Welshcorgi NFT Design & Creation
 
 NFT Release Platform
 --------------------
+* Cutestwelsh: NFT Market Research & Touching
+
 - [ ] [StacksArt](https://www.stacksart.com)
 
 - [ ] [STXNFT](https://stxnft.com)
