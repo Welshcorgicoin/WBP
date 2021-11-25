@@ -30,6 +30,7 @@ NFT Release Platform
 - [ ] https://stxnft.com
 
 - [ ] https://byzantion.xyz
+
 $WELSH Bounty
 -------------
 * 10,000,000 $WELSH (Not confirmed yet)
