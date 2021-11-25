@@ -22,6 +22,7 @@ Specification
 =============
 NFT Artist
 ----------
+- [x] Coolestwelsh
 
 NFT Release Platform
 --------------------
