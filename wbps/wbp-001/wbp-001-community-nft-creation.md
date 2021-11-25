@@ -28,3 +28,4 @@ NFT Release Platform
 
 $WELSH Bounty
 -------------
+10,000,000 $WELSH (Not confirmed yet)
