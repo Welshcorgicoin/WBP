@@ -25,9 +25,9 @@ NFT Artist
 
 NFT Release Platform
 --------------------
--[ ] https://www.stacksart.com
+- [ ] https://www.stacksart.com
 
--[ ] https://stxnft.com
+- [ ] https://stxnft.com
 
 $WELSH Bounty
 -------------
