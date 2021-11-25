@@ -15,7 +15,7 @@ Ideas for WBP
 
 WBPs in the Process of Being Activated
 ======================================
-
+* [WBP-001](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-001/wbp-001-community-nft-creation.md): Community NFT Creation
 
 Ratified WBPs
 =============
