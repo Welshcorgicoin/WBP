@@ -25,7 +25,9 @@ NFT Artist
 
 NFT Release Platform
 --------------------
+[ ] https://www.stacksart.com
+[ ] https://stxnft.com
 
 $WELSH Bounty
 -------------
-10,000,000 $WELSH (Not confirmed yet)
+* 10,000,000 $WELSH (Not confirmed yet)
