@@ -36,7 +36,7 @@ Release Platform
 
 - [ ] [Welshcorgicoin Twitter](https://twitter.com/welshcorgi_coin)
 
-- [ ] Project Channels
+- [ ] Project Channels(Telegram, Discord, Twitter, etc)
 
 How to Promote
 
