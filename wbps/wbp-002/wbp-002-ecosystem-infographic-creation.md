@@ -24,7 +24,7 @@ Specification
 =============
 Infographic Designer
 ----------
-* Cutesttwelsh
+* Cutestwelsh
 * Crystal
 
 Market Researcher
