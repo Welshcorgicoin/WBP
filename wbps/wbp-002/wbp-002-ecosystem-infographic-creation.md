@@ -30,7 +30,7 @@ Infographic Designer
 Release Platform
 --------------------
 
-- [ ] [Twitter](https://twitter.com/welshcorgi_coin)
+- [ ] [Welshcorgicoin Twitter](https://twitter.com/welshcorgi_coin)
 
 - [ ] Project Channels
 
