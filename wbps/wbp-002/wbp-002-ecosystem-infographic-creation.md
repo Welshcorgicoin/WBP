@@ -27,6 +27,10 @@ Infographic Designer
 * Cutesttwelsh
 * Crystal
 
+Market Researcher
+-----------------
+* 0xpui
+
 Release Platform
 --------------------
 
