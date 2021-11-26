@@ -14,7 +14,7 @@ Discussions-To: https://github.com/welshcorgicoin/WBP
 
 Abstract
 ========
-This bounty covers the creation of NFTs fot the Welshcorgi community. 
+This bounty covers the creation of NFTs for the Welshcorgi community. 
 
 Recently, a community member had a suggestion for creating a Welshcorgi NFT. We want to make this happen!
 
