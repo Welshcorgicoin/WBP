@@ -32,7 +32,7 @@ Welshcorgi Family Members will
 2. have regular communication & discussion with Welshcorgi team members
 3. get involved with the direction of internal development
 4. promote Stacks ecosystem world widely
-5. rceive reward in a form of $WELSH tokens
+5. receive reward in a form of $WELSH tokens
 
 Types of Welshcorgi Family
 --------------------------
