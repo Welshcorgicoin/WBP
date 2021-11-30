@@ -47,6 +47,7 @@ More details: [Welshcorgicoin Medium]()
 Welshcorgi Family Members (Continuously updated)
 ------------------------------------------------
 * [0xpui](https://twitter.com/ChanRachel5) - The First Legendary Member / Social Media Master & Translator / 中文
+* [StevenLong](https://twitter.com/StevenlongCFO)
 
 How to Become a Welshcorgi Family?
 ----------------------------------
