@@ -42,12 +42,14 @@ Types of Welshcorgi Family
 4. Article Content Creator
 5. Community Rep
 
-More details: [Welshcorgicoin Medium]()
+More details: [Welshcorgicoin Medium](https://medium.com/@welshcorgicoin/the-welshcorgi-family-community-program-for-core-contributors-49b92eca72d6)
 
 Welshcorgi Family Members (Continuously updated)
 ------------------------------------------------
 * [0xpui](https://twitter.com/ChanRachel5) - The First Legendary Member / Social Media Master & Translator / 中文
-* [StevenLong](https://twitter.com/StevenlongCFO)
+* [StevenLong](https://twitter.com/StevenlongCFO) - Community Rep / Global
+* [AllWelsh](https://twitter.com/nftgalleryseoul) - Article Content Creator / Community Rep / 한국어
+* [Hazel Kudzai](https://twitter.com/Hazel_kudzi_art) - Article Content Creator / Community Rep / Africa
 
 How to Become a Welshcorgi Family?
 ----------------------------------
