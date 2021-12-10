@@ -32,7 +32,7 @@ NFT Release Platform
 --------------------
 * Cutestwelsh: NFT Market Research & Touching
 
-- [ ] [StacksArt](https://www.stacksart.com)
+- [x] [StacksArt](https://www.stacksart.com)
 
 - [ ] [STXNFT](https://stxnft.com)
 
@@ -40,7 +40,7 @@ NFT Release Platform
 
 How to Use Sales Revenue
 
-- [ ] To be used at Token Launch
+- [x] To be used at Token Launch
 
 - [ ] Stacking for Community Rewards
 
