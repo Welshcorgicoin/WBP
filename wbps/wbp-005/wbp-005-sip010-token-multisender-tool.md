@@ -39,7 +39,7 @@ UI Development
 --------------
 * Calandula - Developer
 
-(Scheduled for Q4 2022)
+(Scheduled for Q4 2021)
 
 
 $WELSH Bounty
