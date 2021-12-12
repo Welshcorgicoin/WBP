@@ -46,5 +46,4 @@ $WELSH Bounty
 -------------
 * 10,000,000 $WELSH 
 
-*Big thanks to GM & Calandula for joining WBP for the WELSH community
-*
+*Big thanks to GM & Calandula for joining WBP for the WELSH community*
