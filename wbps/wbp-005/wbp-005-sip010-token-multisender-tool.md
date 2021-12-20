@@ -44,6 +44,7 @@ UI Development
 
 $WELSH Bounty
 -------------
-* 10,000,000 $WELSH 
+* 10,000,000 $WELSH - GM Chung : SP1WBNM0A4ZVY1GVZMXDPMV831BF0BMHFJK9ZXNRW
+* 10,000,000 $WELSH - Calandula : 
 
 *Big thanks to GM & Calandula for joining WBP for the WELSH community*
