@@ -15,7 +15,6 @@ Ideas for WBP
 
 WBPs in the Process of Being Activated
 ======================================
-* [WBP-001](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-001/wbp-001-community-nft-creation.md): Community NFT Creation
 * [WBP-002](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-002/wbp-002-ecosystem-infographic-creation.md): Ecosystem Infographic Creation
 * [WBP-003](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-003/wbp-003-community-contributor-program.md): Community Contributor Program
 * [WBP-004](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-004/wbp-004-sip010-token-vesting-tool.md): SIP010 Token Vesting Tool Development
@@ -23,6 +22,7 @@ WBPs in the Process of Being Activated
 Ratified WBPs
 =============
 * [WBP-000](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-000/wbp-000-welshcorgicoin-bounty-program-intro.md): Welshcorgicoin Bounty Program Intro
+* [WBP-001](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-001/wbp-001-community-nft-creation.md): Community NFT Creation
 * [WBP-005](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-005/wbp-005-sip010-token-multisender-tool.md): SIP010 Token Multisender Tool
 
 How to Get Involved
