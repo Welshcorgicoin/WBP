@@ -28,8 +28,8 @@ Specification
 =============
 WCK Broadcaster & Admin
 -----------------------------
-* Moneystack.btc
-* Supported by : STX korea community
+* Moneystack.btc - Stacks Korea Ambassador
+* Supported by STX korea community
 
 How to run this project?
 ========
