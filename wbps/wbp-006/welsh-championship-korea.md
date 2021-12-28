@@ -54,7 +54,5 @@ If this competiton goes well, Welsh team can use this idea by country
 
 $WELSH Bounty
 -------------
-* xxx $WELSH - For the winner
-* xxx $WELSH - For participants
-* xxx $WELSHh - For broadcasting viewer 
+* Total 5M $WELSH - For the winner / participants / broadcasting viewers
 (Not confirmed yet)
