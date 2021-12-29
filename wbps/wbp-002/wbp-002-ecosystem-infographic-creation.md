@@ -46,4 +46,4 @@ How to Promote
 
 $WELSH Bounty
 -------------
-* 10,000,000 $WELSH (Not confirmed yet)
+* 3,000,000 $WELSH per month - Cutestwelsh : SP2Q5QJESGAG5X1E9C5A3G5X0F91NT88AWPYY46C6
