@@ -54,5 +54,4 @@ If this competiton goes well, Welsh team can use this idea by country
 
 $WELSH Bounty
 -------------
-* Total 5M $WELSH - For the winner / participants / broadcasting viewers
-(Not confirmed yet)
+* Total 5M $WELSH - For the winner / participants / broadcasting viewers : SP1464PMS4CDR43C37VY23M8V8R7D4ZW6XZ4DZK83
