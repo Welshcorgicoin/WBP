@@ -17,7 +17,6 @@ WBPs in the Process of Being Activated
 ======================================
 * [WBP-002](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-002/wbp-002-ecosystem-infographic-creation.md): Ecosystem Infographic Creation
 * [WBP-004](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-004/wbp-004-sip010-token-vesting-tool.md): SIP010 Token Vesting Tool Development
-* [WBP-006](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-006/welsh-championship-korea.md): Welsh Championship Korea
 
 Ratified WBPs
 =============
@@ -25,6 +24,7 @@ Ratified WBPs
 * [WBP-001](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-001/wbp-001-community-nft-creation.md): Community NFT Creation
 * [WBP-003](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-003/wbp-003-community-contributor-program.md): Community Contributor Program
 * [WBP-005](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-005/wbp-005-sip010-token-multisender-tool.md): SIP010 Token Multisender Tool
+* [WBP-006](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-006/welsh-championship-korea.md): Welsh Championship Korea
 
 How to Get Involved
 ===================
