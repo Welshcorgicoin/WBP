@@ -22,6 +22,11 @@ Milestone
 - Discord bot which changes its status to its price, in both `$STX` and `$USDT`.
 - Add interactive functionality to bot, so bot can listen to some commands with members.
 
+Technical Specifiction
+============
+- Bot will be written in Python 3.10
+- Bot will be dockerized so that anyone can easily deploy and shutdown.
+
 Specification
 ============
 Developer needs to get permission to invite bots in Discord server.
