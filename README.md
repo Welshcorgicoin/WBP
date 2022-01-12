@@ -17,6 +17,8 @@ WBPs in the Process of Being Activated
 ======================================
 * [WBP-002](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-002/wbp-002-ecosystem-infographic-creation.md): Ecosystem Infographic Creation
 * [WBP-004](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-004/wbp-004-sip010-token-vesting-tool.md): SIP010 Token Vesting Tool Development
+* [WBP-007](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-007/welsh-discord-community-mod.md): Welsh Discord Community MOD
+* [WBP-008](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-008/wbp-008-welshcorgicoin-bot.md): Welshcorgicoin Discord Bot
 
 Ratified WBPs
 =============
