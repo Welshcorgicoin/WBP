@@ -41,4 +41,4 @@ Developer needs a server to place bot.
 
 $WELSH Bounty
 =============
-TBD
+* $5M $WELSH tokens for 1 year
