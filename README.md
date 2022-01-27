@@ -18,7 +18,6 @@ WBPs in the Process of Being Activated
 * [WBP-002](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-002/wbp-002-ecosystem-infographic-creation.md): Ecosystem Infographic Creation
 * [WBP-004](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-004/wbp-004-sip010-token-vesting-tool.md): SIP010 Token Vesting Tool Development
 * [WBP-007](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-007/welsh-discord-community-mod.md): Welsh Discord Community MOD
-* [WBP-008](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-008/wbp-008-welshcorgicoin-bot.md): Welshcorgicoin Discord Bot
 
 Ratified WBPs
 =============
@@ -27,6 +26,7 @@ Ratified WBPs
 * [WBP-003](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-003/wbp-003-community-contributor-program.md): Community Contributor Program
 * [WBP-005](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-005/wbp-005-sip010-token-multisender-tool.md): SIP010 Token Multisender Tool
 * [WBP-006](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-006/welsh-championship-korea.md): Welsh Championship Korea
+* [WBP-008](https://github.com/Welshcorgicoin/WBP/blob/main/wbps/wbp-008/wbp-008-welshcorgicoin-bot.md): Welshcorgicoin Discord Bot
 
 How to Get Involved
 ===================
